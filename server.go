@@ -4,9 +4,9 @@ import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"tu.project/echoTest/Domain"
-	"tu.project/echoTest/Common"
-	"tu.project/echoTest/Controller"
+	"github.com/truongtu268/real_project/Domain"
+	"github.com/truongtu268/real_project/Common"
+	"github.com/truongtu268/real_project/Controller"
 )
 
 func main() {

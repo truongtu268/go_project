@@ -2,7 +2,7 @@ package Domain
 
 import (
 	"github.com/jinzhu/gorm"
-	"tu.project/echoTest/Model"
+	"github.com/truongtu268/real_project/Model"
 )
 
 type EntityRepository struct {

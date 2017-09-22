@@ -1,9 +1,9 @@
 package Domain
 
 import (
-	"tu.project/echoTest/Model"
-	"tu.project/echoTest/FakeData"
-	"tu.project/echoTest/Common"
+	"github.com/truongtu268/real_project/Model"
+	"github.com/truongtu268/real_project/FakeData"
+	"github.com/truongtu268/real_project/Common"
 	"reflect"
 	"strings"
 )

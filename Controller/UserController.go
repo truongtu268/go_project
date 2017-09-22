@@ -2,12 +2,12 @@ package Controller
 
 import (
 	"github.com/labstack/echo"
-	"tu.project/echoTest/Domain"
-	"tu.project/echoTest/Model"
-	"tu.project/echoTest/Dtos"
+	"github.com/truongtu268/real_project/Domain"
+	"github.com/truongtu268/real_project/Model"
+	"github.com/truongtu268/real_project/Dtos"
 	"net/http"
 	"fmt"
-	"tu.project/echoTest/Common"
+	"github.com/truongtu268/real_project/Common"
 )
 var UserCtrlItems = []ControllerItem{
 	ControllerItem{

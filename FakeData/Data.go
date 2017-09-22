@@ -1,7 +1,7 @@
 package FakeData
 
 import (
-	"tu.project/echoTest/Model"
+	"github.com/truongtu268/real_project/Model"
 	"github.com/araddon/dateparse"
 )
 

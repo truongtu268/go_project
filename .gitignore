@@ -1,4 +1,6 @@
-Godeps/
 vendor/
-.idea/
-.idea/workspace.xml
+.idea/*
+*.exe
+tmp/*
+real_project_runner.conf
+*.conf

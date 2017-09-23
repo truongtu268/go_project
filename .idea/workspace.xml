@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9514419-32ba-4a43-9dc1-89ff352252c4" name="Default" comment="update server">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +50,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -199,6 +198,11 @@
             <path>
               <item name="real_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="real_project" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="real_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="real_project" type="462c0819:PsiDirectoryNode" />
               <item name="FakeData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -214,6 +218,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="GO_FMT" value="false" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -326,7 +331,7 @@
       <updated>1506097184723</updated>
       <workItem from="1506097192113" duration="1153000" />
       <workItem from="1506134702015" duration="1831000" />
-      <workItem from="1506136630913" duration="142000" />
+      <workItem from="1506136630913" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="update server">
       <created>1506097782076</created>
@@ -339,7 +344,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3126000" />
+    <option name="totallyTimeSpent" value="4237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1311" height="784" extended-state="6" />
@@ -402,6 +407,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -688,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
